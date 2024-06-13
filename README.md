@@ -8,9 +8,16 @@ This guide outlines how to utilize the program, designed to perform a variety of
 
 Detailed instructions for running the programs and understanding the analyses are provided in the PDF file named `data_science_instructions.pdf`. This document includes the steps to follow for the project. Please refer to this document for comprehensive guidelines.
 
-## 🗝️ Key Components
+## 🗝️ Project Overview
 
-- The user interface and the `Modulew` file, which includes the `Matrix` class equipped with essential methods, especially those relevant to the movie recommendation system, are critical components of this program.
+In this project, we develop a movie recommendation system using Singular Value Decomposition (SVD) and sparse matrices. The system analyzes a dataset of user ratings for movies and leverages SVD to perform dimensionality reduction and extract latent features. We implement the recommendation algorithms using SciPy for numerical computations, lambda functions for data manipulation, and Object-Oriented Programming (OOP) principles for modular design.
+
+Key objectives include:
+- Building recommendation systems using matrix factorization techniques.
+- Understanding the theory and applications of Singular Value Decomposition (SVD) for collaborative filtering.
+- Efficiently handling large, sparse datasets using sparse matrices.
+- Utilizing lambda functions for concise and efficient data manipulation.
+- Developing modular and reusable code using OOP principles.
 
 ## 🛠️ Supported Operations
 
